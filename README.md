@@ -1,3 +1,20 @@
+## This repository is no longer being maintained
+
+It remains for historical reasons.
+
+Please clone https://github.com/fadein/vim-FIGlet to upgrade to the new and
+official repo of the Vim FIGlet plugin.
+
+### Upgrade procedure
+
+The repository at https://github.com/fadein/FIGlet.vim is stuck at v3.0 and is
+no longer maintained.
+
+You are encouraged to upgrade by cloning this repository.
+
+---
+
+
 Use the g@ operator or the :FIGlet command to filter your text through figlet, in-place! 
 :FIGlet has a completion function that will complete on installed font names, too. 
 
@@ -32,7 +49,7 @@ A: This:
 ```
 Check out http://www.figlet.org/ to get with the times.
  
-###install details
+### install details
 
 Make sure you've got the figlet program installed on your $PATH
 
